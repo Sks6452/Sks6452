@@ -28,8 +28,23 @@
 ---
 
 ## 🐍 Contribution Snake
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Sks6452/Sks6452/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Sks6452/Sks6452/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Sks6452/Sks6452/output/github-snake-dark.svg"
+    />
+  </picture>
 </p>
 
 <br clear="both">## Hi there 👋
