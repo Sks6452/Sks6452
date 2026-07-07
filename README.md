@@ -732,3 +732,211 @@ Coming Soon
 ```
 
 ---
+<!-- ========================= EXPERIENCE ========================= -->
+
+# 💼 Professional Experience
+
+> **Hands-on industry experience in Software Engineering, Artificial Intelligence, Machine Learning, and IoT with a strong focus on delivering scalable, real-world solutions.**
+
+---
+
+## Experience Timeline
+
+| Organization | Role | Duration | Domain |
+|-------------|------|----------|--------|
+| Tata Prashikshan | IoT Engineering Intern | Jun 2024 – Jul 2024 | IoT & Embedded Systems |
+| IBM × Edunet Foundation × AICTE | AI / Machine Learning Intern | Jun 2025 – Jul 2025 | Artificial Intelligence |
+
+---
+
+## 🚀 Tata Prashikshan
+
+### IoT-Based Smart Health Band Internship
+
+**Intern** • Jamshedpur, Jharkhand
+
+**Duration**
+
+`June 2024 — July 2024`
+
+---
+
+### Overview
+
+Worked on the development of an **IoT-enabled wearable healthcare system** designed for continuous biometric monitoring. Collaborated with a multidisciplinary engineering team to integrate hardware sensors, improve system responsiveness, and ensure reliable real-time health data acquisition.
+
+---
+
+### Scope of Work
+
+- Designed and integrated biometric sensor modules into the wearable device.
+- Assisted in developing reliable real-time health monitoring workflows.
+- Improved hardware communication between sensors and controller modules.
+- Optimized system responsiveness for continuous data acquisition.
+- Participated in prototype testing, debugging, and validation.
+- Documented technical workflows and engineering observations.
+- Collaborated closely with cross-functional team members to enhance system functionality.
+
+---
+
+### Key Contributions
+
+| Area | Contribution |
+|------|--------------|
+| IoT Development | Integrated multiple biometric sensors |
+| System Optimization | Improved response time and reliability |
+| Hardware Integration | Assisted in wearable prototype development |
+| Testing | Performed validation and debugging |
+| Collaboration | Worked with multidisciplinary engineering team |
+| Documentation | Prepared technical documentation |
+
+---
+
+### Technologies Used
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/IoT-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embedded%20Systems-5A189A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Sensors-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Real--Time%20Systems-4B0082?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🤖 IBM × Edunet Foundation × AICTE
+
+### Artificial Intelligence & Machine Learning Internship
+
+**AI / ML Intern**
+
+**Remote**
+
+**Duration**
+
+`June 2025 — July 2025`
+
+---
+
+### Overview
+
+Completed an intensive internship focused on modern Artificial Intelligence and Machine Learning workflows. Built predictive models, applied preprocessing techniques, and worked with real-world datasets while following industry-standard machine learning practices.
+
+---
+
+### Scope of Work
+
+- Developed Machine Learning models using Python.
+- Performed feature engineering and data preprocessing.
+- Cleaned and transformed datasets for improved model quality.
+- Trained and evaluated multiple predictive models.
+- Compared model performance using evaluation metrics.
+- Applied end-to-end AI workflow from data preparation to validation.
+- Strengthened understanding of practical AI engineering.
+
+---
+
+### Key Contributions
+
+| Area | Contribution |
+|------|--------------|
+| Machine Learning | Built multiple ML models |
+| Data Processing | Cleaned and transformed datasets |
+| Feature Engineering | Improved model readiness |
+| Model Training | Trained predictive models |
+| Model Evaluation | Performance comparison & optimization |
+| AI Workflow | End-to-end development lifecycle |
+
+---
+
+### Technologies Used
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+</p>
+
+---
+
+# 🏆 Professional Skills Demonstrated
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Software Engineering
+
+- Object-Oriented Programming
+- Clean Code
+- SDLC
+- Database Design
+- REST APIs
+- Responsive Development
+- Debugging
+- Version Control
+
+</td>
+
+<td width="50%">
+
+### AI / ML & IoT
+
+- Machine Learning
+- Data Preprocessing
+- Feature Engineering
+- Predictive Analytics
+- Sensor Integration
+- Real-Time Monitoring
+- Embedded Systems
+- Data Visualization
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 💡 Core Competencies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineering-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-5A189A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IoT-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-5A189A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Product%20Engineering-4B0082?style=for-the-badge"/>
+
+</p>
+
+---
+
+> *"Every project is an opportunity to transform ideas into scalable, reliable, and impactful software solutions."*
+
+---
