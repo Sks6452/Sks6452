@@ -1258,3 +1258,196 @@ Long-Term Goal:
 > **"Every solved problem strengthens the foundation required to build scalable software systems."**
 
 ---
+<!-- ========================= GITHUB ANALYTICS ========================= -->
+
+# 📊 GitHub Analytics
+
+> **A visual overview of my development journey, coding activity, language distribution, and open-source contributions.**
+
+---
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sks6452&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sks6452&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sks6452&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
+
+---
+
+# 📈 GitHub Insights
+
+<div align="center">
+
+| Metric | Description |
+|---------|-------------|
+| 🚀 Repositories | Software Engineering & Full Stack Projects |
+| 💻 Languages | Java, Python, JavaScript, SQL, HTML, CSS |
+| 🌱 Learning | AI, Machine Learning, Cloud Computing |
+| 🤝 Collaboration | Open Source & Team Projects |
+| 📊 Focus | Clean Architecture & Scalable Development |
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sks6452&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
+
+</div>
+
+---
+
+# 📉 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sks6452&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/7B2CBF/Sks6452" alt="Contribution Calendar"/>
+
+</div>
+
+---
+
+# 📦 Repository Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sks6452&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sks6452&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sks6452&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sks6452&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sks6452&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# ⭐ Development Metrics
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Engineering Focus
+
+- Enterprise Software
+- Backend Development
+- AI & Machine Learning
+- Full Stack Applications
+- Cloud Computing
+- Data Engineering
+
+</td>
+
+<td width="50%">
+
+### Current Priorities
+
+- Open Source Contributions
+- Java Ecosystem
+- Spring Boot
+- System Design
+- Cloud Native Applications
+- Scalable Architecture
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📊 Coding Philosophy
+
+```text
+Write Clean Code
+        │
+        ▼
+Build Scalable Systems
+        │
+        ▼
+Optimize Performance
+        │
+        ▼
+Solve Real Problems
+        │
+        ▼
+Continuously Learn
+        │
+        ▼
+Share Knowledge
+```
+
+---
+
+# 🌟 Open Source Goals
+
+```yaml
+2026 Goals:
+
+  Build:
+    - Production-grade applications
+    - AI-powered solutions
+    - Enterprise backend systems
+
+  Learn:
+    - Advanced Spring Boot
+    - Microservices
+    - Docker
+    - Kubernetes
+    - AWS
+
+  Contribute:
+    - Open Source Projects
+    - Developer Communities
+    - Technical Articles
+    - Engineering Best Practices
+
+  Career:
+    - Software Engineer
+    - Product Engineering
+    - Backend Development
+```
+
+---
