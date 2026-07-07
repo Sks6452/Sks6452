@@ -313,3 +313,167 @@ My engineering philosophy centers around writing clean code, designing scalable 
 > **"Great software is built through clean architecture, scalable design, continuous learning, and an unwavering focus on solving real-world problems."**
 
 ---
+<!-- ========================= AI / ML EXPERTISE ========================= -->
+
+# 🤖 AI / Machine Learning Expertise
+
+<p align="center">
+
+> **Building intelligent systems by combining data, algorithms, and software engineering principles to solve real-world problems.**
+
+</p>
+
+---
+
+## AI / ML Competency Matrix
+
+| Domain | Proficiency | Details |
+|----------|:-----------:|---------|
+| Machine Learning | ⭐⭐⭐⭐☆ | Supervised Learning, Model Training, Evaluation |
+| Data Preprocessing | ⭐⭐⭐⭐☆ | Data Cleaning, Feature Engineering, Missing Value Handling |
+| Model Optimization | ⭐⭐⭐⭐☆ | Hyperparameter Tuning, Accuracy Improvement |
+| Data Analysis | ⭐⭐⭐⭐☆ | Exploratory Data Analysis (EDA), Pattern Discovery |
+| Data Visualization | ⭐⭐⭐⭐☆ | Matplotlib, Chart.js, Dashboard Development |
+| AI Workflow | ⭐⭐⭐⭐☆ | Dataset Preparation → Model Training → Evaluation → Deployment |
+| Python for AI | ⭐⭐⭐⭐☆ | NumPy, Pandas, Scikit-learn |
+| Statistical Analysis | ⭐⭐⭐☆☆ | Data Interpretation & Performance Metrics |
+| Problem Solving | ⭐⭐⭐⭐⭐ | Analytical Thinking & Real-world Solution Design |
+
+---
+
+## 🧠 Areas of Expertise
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Artificial Intelligence
+
+- Machine Learning Fundamentals
+- Predictive Modeling
+- Intelligent Decision Systems
+- Data-Driven Solutions
+- AI Workflow Design
+- Applied AI Projects
+
+</td>
+
+<td width="50%">
+
+### Machine Learning
+
+- Data Preprocessing
+- Feature Engineering
+- Model Training
+- Model Evaluation
+- Accuracy Optimization
+- Performance Analysis
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 🔬 AI Development Workflow
+
+```text
+Data Collection
+        │
+        ▼
+Data Cleaning & Validation
+        │
+        ▼
+Feature Engineering
+        │
+        ▼
+Model Selection
+        │
+        ▼
+Training & Validation
+        │
+        ▼
+Performance Evaluation
+        │
+        ▼
+Optimization
+        │
+        ▼
+Deployment Ready
+```
+
+---
+
+## 📈 Technical Capabilities
+
+| Capability | Experience |
+|------------|------------|
+| Data Collection | ✅ |
+| Data Cleaning | ✅ |
+| Feature Engineering | ✅ |
+| Machine Learning Models | ✅ |
+| Model Evaluation | ✅ |
+| Performance Optimization | ✅ |
+| Dashboard Development | ✅ |
+| Data Visualization | ✅ |
+| AI Project Development | ✅ |
+
+---
+
+## 🚀 AI Engineering Principles
+
+```yaml
+Approach:
+  - Build reliable and explainable AI systems
+  - Prioritize clean and high-quality datasets
+  - Optimize model performance through experimentation
+  - Focus on scalability and maintainability
+  - Develop production-ready AI workflows
+
+Core Skills:
+  - Machine Learning
+  - Data Analytics
+  - Predictive Modeling
+  - Software Engineering
+  - Problem Solving
+```
+
+---
+
+## 📚 AI / ML Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</p>
+
+---
+
+## 💡 Highlights
+
+- Built and trained multiple Machine Learning models using real-world datasets.
+- Applied data preprocessing techniques to improve model quality and prediction accuracy.
+- Developed interactive analytical dashboards for data visualization.
+- Experienced in end-to-end AI workflows, from data preparation to evaluation.
+- Passionate about integrating AI with scalable software engineering practices.
+
+---
