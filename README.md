@@ -73,3 +73,29 @@ Software Engineer • AI Engineer • Full Stack Developer • Product Builder �
 <img src="https://img.shields.io/github/stars/Sks6452?affiliations=OWNER&label=Stars&style=for-the-badge&color=7B2CBF&labelColor=111111"/>
 
 </div>
+<div align="center">
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                     CURRENT STATUS                           │
+│                                                              │
+│   🟣 Open for Software Engineering Opportunities             │
+│   🚀 Building Enterprise-grade Full Stack Applications       │
+│   🤖 Exploring AI, LLMs & Intelligent Systems                │
+│   ☁️ Learning Cloud Architecture & DevOps                    │
+│   📚 Solving DSA & Strengthening System Design               │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+</div>
+<div align="center">
+
+## Engineering Philosophy
+
+*"Great software isn't just written — it's thoughtfully engineered, continuously refined, and built to create meaningful impact."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7B2CBF"/>
