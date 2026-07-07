@@ -940,3 +940,165 @@ Completed an intensive internship focused on modern Artificial Intelligence and 
 > *"Every project is an opportunity to transform ideas into scalable, reliable, and impactful software solutions."*
 
 ---
+<!-- ========================= ACHIEVEMENTS ========================= -->
+
+# 🏆 Achievements
+
+> **A reflection of continuous learning, technical excellence, and commitment to building impactful software solutions.**
+
+---
+
+## Professional Highlights
+
+| Recognition | Details |
+|--------------|---------|
+| 🤖 AI & Machine Learning | Successfully completed an industry-oriented AI/ML internship through IBM, Edunet Foundation & AICTE. |
+| ❤️ IoT Engineering | Developed an IoT-based wearable health monitoring system during Tata Prashikshan Internship. |
+| 🌐 Full Stack Development | Designed and developed Collectors Paradise, a scalable collectibles platform. |
+| 📊 Dashboard Engineering | Built an interactive operational dashboard for Tata Steel using Python and JavaScript. |
+| 💻 Software Engineering | Strong foundation in clean architecture, scalable software design, and modern development practices. |
+| ☁️ Cloud Learning | Earned AWS Cloud Practitioner Essentials certification. |
+| 🔒 Cybersecurity | Successfully completed IBM Cybersecurity Fundamentals certification. |
+| 🎓 Continuous Learning | Consistently upskilling through professional certifications and technical projects. |
+
+---
+
+## Engineering Strengths
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Software%20Engineering-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI%20Engineering-5A189A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-5A189A?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📜 Certifications
+
+> **Professional certifications demonstrating continuous learning across Software Engineering, AI, Cloud, and Cybersecurity.**
+
+---
+
+## ☁️ AWS
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner%20Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+</p>
+
+---
+
+## 🤖 IBM
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/IBM%20AI%2FML%20Internship-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cybersecurity%20Fundamentals-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+</p>
+
+---
+
+## 💻 Infosys Springboard
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java%20Features-007ACC?style=for-the-badge"/>
+
+</p>
+
+---
+
+## ☁️ Oracle
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
+
+---
+
+## 🌐 Cisco
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Cisco%20Networking-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</p>
+
+---
+
+## 📖 NPTEL
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NPTEL-005BAC?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🎓 Coursera
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Google%20Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+
+</p>
+
+---
+
+## 📊 Certification Summary
+
+| Provider | Focus Area |
+|-----------|------------|
+| AWS | Cloud Computing |
+| IBM | AI, Machine Learning & Cybersecurity |
+| Infosys | Java Development |
+| Oracle | Database Management |
+| Cisco | Networking |
+| NPTEL | Computer Science |
+| Coursera | Professional Development |
+
+---
+
+## 📈 Learning Philosophy
+
+```text
+Learn Continuously
+
+↓
+
+Build Real Projects
+
+↓
+
+Master Engineering Principles
+
+↓
+
+Create Scalable Software
+
+↓
+
+Deliver Business Value
+
+↓
+
+Never Stop Improving
+```
+
+---
