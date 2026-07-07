@@ -41,3 +41,26 @@ Software Engineer • AI Engineer • Full Stack Developer • Product Builder �
 <img src="https://github.com/Sks6452/Sks6452/blob/output/pacman-contribution-graph-dark.svg">
 
 </div>
+<div align="center">
+
+<a href="https://kumarshubham.xyz">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=C77DFF"/>
+</a>
+
+<a href="https://linkedin.com/in/shubham1444">
+<img src="https://img.shields.io/badge/LinkedIn-3C096C?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sumit1twothree@gmail.com">
+<img src="https://img.shields.io/badge/Email-5A189A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sks6452">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=C77DFF"/>
+</a>
+
+<a href="https://kumarshubham.xyz/resume.pdf">
+<img src="https://img.shields.io/badge/Resume-240046?style=for-the-badge&logo=readthedocs&logoColor=C77DFF"/>
+</a>
+
+</div>
