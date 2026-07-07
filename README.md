@@ -64,3 +64,12 @@ Software Engineer • AI Engineer • Full Stack Developer • Product Builder �
 </a>
 
 </div>
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sks6452&label=Profile%20Views&style=for-the-badge&color=7B2CBF"/>
+
+<img src="https://img.shields.io/github/followers/Sks6452?label=Followers&style=for-the-badge&color=7B2CBF&labelColor=111111"/>
+
+<img src="https://img.shields.io/github/stars/Sks6452?affiliations=OWNER&label=Stars&style=for-the-badge&color=7B2CBF&labelColor=111111"/>
+
+</div>
