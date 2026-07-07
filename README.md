@@ -142,3 +142,174 @@ My engineering philosophy centers around writing clean code, designing scalable 
 - Preparing for Software Engineering opportunities at leading product-based companies
 
 ---
+<!-- ========================= TECH STACK ========================= -->
+
+# 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css,sql,git,github,vscode,linux,mysql,mongodb,react,nodejs,spring,maven,docker,aws&perline=10"/>
+
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=python"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=c"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=js"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=sql"/>
+
+</p>
+
+| Technology | Experience | Primary Usage |
+|------------|------------|---------------|
+| Java | Advanced | Backend Development, OOP, DSA |
+| Python | Intermediate | AI/ML, Data Processing, Automation |
+| C | Intermediate | Programming Fundamentals |
+| C++ | Intermediate | Data Structures & Algorithms |
+| JavaScript | Intermediate | Interactive Web Development |
+| SQL | Intermediate | Database Design & Query Optimization |
+
+---
+
+## 🎨 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
+
+</p>
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Semantic Web Development |
+| CSS3 | Responsive UI Design |
+| JavaScript | Interactive Applications |
+| React | Modern Component-Based UI |
+| Bootstrap | Mobile-First Responsive Design |
+
+---
+
+## ⚙️ Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,mongodb"/>
+
+</p>
+
+| Technology | Purpose |
+|------------|---------|
+| Java | Enterprise Backend Development |
+| Spring Boot | REST APIs & Microservices |
+| Node.js | Backend Services |
+| MySQL | Relational Database |
+| MongoDB | NoSQL Database |
+
+---
+
+## ☁️ Cloud, DevOps & Tooling
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,maven,linux,vscode"/>
+
+</p>
+
+| Category | Technologies |
+|----------|--------------|
+| Cloud | AWS |
+| Version Control | Git, GitHub |
+| Build Tools | Maven |
+| Containerization | Docker |
+| Operating Systems | Linux, Windows |
+| IDE & Editors | VS Code, IntelliJ IDEA |
+| Collaboration | GitHub Projects, Git |
+
+---
+
+## 🤖 AI / Machine Learning Ecosystem
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+| Domain | Technologies |
+|---------|--------------|
+| Machine Learning | Scikit-learn, Model Training |
+| Data Processing | Pandas, NumPy |
+| Data Visualization | Matplotlib, Chart.js |
+| Development | Google Colab, Jupyter Notebook |
+| Model Evaluation | Feature Engineering, Performance Optimization |
+
+---
+
+## 🧩 Core Engineering Competencies
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Software Engineering
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- REST API Development
+- Database Design
+- System Design Fundamentals
+- Software Development Life Cycle
+- Design Patterns
+- Clean Code Principles
+
+</td>
+
+<td width="50%">
+
+### Professional Skills
+
+- Problem Solving
+- Analytical Thinking
+- Cross-functional Collaboration
+- Agile Development
+- Technical Documentation
+- Product Engineering
+- Continuous Learning
+- Team Leadership
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## 📊 Technology Proficiency
+
+| Category | Technologies | Proficiency |
+|----------|--------------|------------|
+| Programming | Java, Python, C, C++, JavaScript, SQL | █████████░ 90% |
+| Frontend | HTML, CSS, JavaScript, React | ████████░░ 85% |
+| Backend | Java, Spring Boot, Node.js | ████████░░ 82% |
+| Database | MySQL, MongoDB | ████████░░ 80% |
+| AI / ML | Python, Scikit-learn, Data Processing | ████████░░ 84% |
+| Cloud | AWS | ███████░░░ 75% |
+| DevOps | Git, GitHub, Docker, Maven | ████████░░ 82% |
+
+---
+
+## ⚡ Engineering Philosophy
+
+> **"Great software is built through clean architecture, scalable design, continuous learning, and an unwavering focus on solving real-world problems."**
+
+---
