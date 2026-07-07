@@ -36,3 +36,8 @@ Software Engineer • AI Engineer • Full Stack Developer • Product Builder �
 <img src="https://img.shields.io/badge/Jamshedpur,%20India-10002B?style=for-the-badge&logo=googlemaps&logoColor=E0AAFF"/>
 
 </div>
+<div align="center">
+
+<img src="https://github.com/Sks6452/Sks6452/blob/output/pacman-contribution-graph-dark.svg">
+
+</div>
