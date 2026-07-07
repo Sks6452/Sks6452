@@ -1102,3 +1102,159 @@ Never Stop Improving
 ```
 
 ---
+<!-- ========================= CODING PROFILES ========================= -->
+
+# 💻 Coding Profiles
+
+> **Sharpening problem-solving skills through competitive programming, algorithmic thinking, and continuous practice across leading coding platforms.**
+
+---
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📊 Competitive Programming
+
+| Platform | Focus | Profile |
+|-----------|-------|---------|
+| 🟧 LeetCode | DSA • Algorithms • Interview Preparation | Add Your Username |
+| 🟩 GeeksforGeeks | Data Structures • Practice | Add Your Username |
+| 🟢 HackerRank | Java • SQL • Problem Solving | Add Your Username |
+| 🟤 CodeChef | Competitive Programming | Add Your Username |
+
+---
+
+## 🎯 Areas of Practice
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Algorithms
+
+- Searching
+- Sorting
+- Recursion
+- Greedy Algorithms
+- Divide & Conquer
+- Backtracking
+
+</td>
+
+<td width="50%">
+
+### Data Structures
+
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Graphs
+- Hash Maps
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## ⚙️ Core Concepts
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Structures-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Algorithms-5A189A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-7B2CBF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SQL-4B0082?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-6A0DAD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Problem%20Solving-5A189A?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📈 Problem Solving Roadmap
+
+```text
+Programming Fundamentals
+          │
+          ▼
+Data Structures
+          │
+          ▼
+Algorithms
+          │
+          ▼
+Dynamic Programming
+          │
+          ▼
+Graphs & Trees
+          │
+          ▼
+System Design
+          │
+          ▼
+Scalable Software Engineering
+```
+
+---
+
+## 🧩 Engineering Mindset
+
+```yaml
+Problem Solving:
+  - Analytical Thinking
+  - Logical Reasoning
+  - Clean Code
+  - Optimization
+  - Scalability
+
+Current Focus:
+  - Advanced Java
+  - Backend Engineering
+  - DSA
+  - AI Engineering
+  - System Design
+
+Long-Term Goal:
+  Build scalable software products that solve
+  real-world engineering challenges.
+```
+
+---
+
+## 🏅 Learning Philosophy
+
+> **"Every solved problem strengthens the foundation required to build scalable software systems."**
+
+---
