@@ -1,61 +1,65 @@
-<!-- ========================= HEADER ========================= -->
+[![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:9333EA&text=Kumar%20Shubham&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
-</p>
+<h1 align="center">Hi 👋, I'm Kumar Shubham</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-<p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%7C+Machine+Learning;Full+Stack+Developer;Building+Scalable+Software;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
+###
 
-</p>
+<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
+###
+- 🔭 I’m currently working on **Backend**
+  
+- 🌱 I’m currently learning **Spring Boot, Spring AI**
+
+- 💬 Ask me about **Java,Javascript,NodeJs,ExpressJs,MongoDB,SQL**  
+
+- 📫 How to reach me **sumit1twothree@gmail.com**
+
+<h3 align="left">Connect with me:</h3> 
+<p align="left">
+<a href="https://www.linkedin.com/in/shubham1444/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhinendrasingh3" height="30" width="40" /></a>
+<a href="https://www.instagram.com/shubham14.4.4/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avvhii" height="30" width="40" /></a>
+</p> 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 ---
 
-<p align="center">
 
-![](https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge)
-
-![](https://img.shields.io/badge/Final%20Year-2026-6D28D9?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20to-Full%20Time-4F46E5?style=for-the-badge)
-
-![](https://img.shields.io/badge/Open%20Source-Contributor-5B21B6?style=for-the-badge)
-
-</p>
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<a href="https://maps.google.com/?q=Jamshedpur+India">
-<img src="https://img.shields.io/badge/Jamshedpur-India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</a>
-
-<a href="https://kumarshubham.xyz">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/shubham1444">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sumit1twothree@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sks6452">
-<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Sks6452/Sks6452/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Sks6452/Sks6452/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Sks6452/Sks6452/output/github-snake-dark.svg"
+    />
+  </picture>
 </p>
 
----
+<br clear="both">## Hi there 👋
 
-<p align="center">
+<!--
+**Sks6452/Sks6452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://komarev.com/ghpvc/?username=Sks6452&style=for-the-badge&color=7C3AED)
+Here are some ideas to get you started:
 
-![](https://img.shields.io/github/followers/Sks6452?style=for-the-badge&color=6D28D9)
-
-![](https://img.shields.io/github/stars/Sks6452?affiliations=OWNER&style=for-the-badge&color=4F46E5)
-
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->  
