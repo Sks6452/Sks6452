@@ -17,3 +17,22 @@ Engineering software that is scalable, intelligent, secure, and built for real-w
 </h3>
 
 </div>
+<div align="center">
+
+Software Engineer • AI Engineer • Full Stack Developer • Product Builder • Open Source Enthusiast
+
+<br><br>
+
+<img src="https://img.shields.io/badge/B.Tech%20Computer%20Science-240046?style=for-the-badge&logo=academia&logoColor=C77DFF"/>
+
+<img src="https://img.shields.io/badge/Final%20Year-5A189A?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-7B2CBF?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java%20Backend-3C096C?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-240046?style=for-the-badge&logo=amazonaws&logoColor=C77DFF"/>
+
+<img src="https://img.shields.io/badge/Jamshedpur,%20India-10002B?style=for-the-badge&logo=googlemaps&logoColor=E0AAFF"/>
+
+</div>
