@@ -44,3 +44,101 @@
 </div>
 
 ---
+<!-- ========================= ABOUT ========================= -->
+
+# 💫 About Me
+
+<p align="justify">
+
+I'm **Kumar Shubham**, a Software Engineer passionate about designing and building scalable, reliable, and user-centric software solutions. My interests span **Software Engineering, Artificial Intelligence, Machine Learning, Full Stack Development, Cloud Computing, and Product Engineering**. I enjoy transforming complex problems into clean, maintainable, and high-performance applications while following industry-standard engineering practices.
+
+Throughout my academic journey and internships, I've gained practical experience developing AI/ML models, IoT-based systems, and full-stack web applications. I believe great software is created through strong system design, continuous learning, collaboration, and a deep understanding of both technology and user needs.
+
+My engineering philosophy centers around writing clean code, designing scalable architectures, optimizing performance, and building products that create measurable real-world impact. I continuously explore emerging technologies to strengthen my expertise across modern software development.
+
+</p>
+
+<br>
+
+## 🚀 Open To
+
+<table>
+<tr>
+<td width="50%">
+
+### Engineering Roles
+
+- Software Engineer
+- Full Stack Developer
+- Backend Developer
+- AI/ML Engineer
+- Java Developer
+- Cloud Engineer
+- Product Engineer
+
+</td>
+
+<td width="50%">
+
+### Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Distributed Systems
+- Cloud Computing
+- System Design
+- REST API Development
+- Data Engineering
+- Open Source
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Engineering Focus
+
+```text
+• Building scalable software systems
+
+• Designing clean and maintainable architectures
+
+• Developing AI & Machine Learning solutions
+
+• Creating responsive full-stack web applications
+
+• Applying software engineering best practices
+
+• Solving real-world business problems using technology
+
+• Continuous learning and professional growth
+```
+
+---
+
+## 💼 Professional Highlights
+
+| Area | Details |
+|------|---------|
+| 💻 Software Engineering | Building scalable, maintainable, and production-ready applications |
+| 🤖 Artificial Intelligence | Machine Learning, Model Development, Data Preprocessing, AI Workflows |
+| 🌐 Full Stack Development | Responsive web applications with modern frontend and backend technologies |
+| ☁️ Cloud Computing | Exploring cloud-native architectures and deployment practices |
+| 📊 Data Engineering | Data processing, visualization, and analytical problem-solving |
+| 🔍 Problem Solving | Strong analytical thinking with a focus on efficient and optimized solutions |
+| 🤝 Collaboration | Experience working in cross-functional engineering teams using agile methodologies |
+| 📈 Product Mindset | Passion for building impactful, user-centric, and scalable digital products |
+
+---
+
+## 🌱 Currently Working On
+
+- Enhancing my expertise in **Java Backend Development**
+- Deepening knowledge of **AI & Machine Learning**
+- Building scalable **Full Stack Applications**
+- Learning **System Design** and **Cloud Architecture**
+- Contributing to high-quality software engineering projects
+- Preparing for Software Engineering opportunities at leading product-based companies
+
+---
