@@ -1451,3 +1451,157 @@ Share Knowledge
 ```
 
 ---
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sks6452/Sks6452/output/github-snake-dark.svg">
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sks6452/Sks6452/output/github-snake.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Sks6452/Sks6452/output/github-snake-dark.svg">
+</picture>
+
+</div>
+<!-- ========================= ENGINEERING PHILOSOPHY ========================= -->
+
+# ⚡ Engineering Philosophy
+
+<div align="center">
+
+> *"Great software isn't measured by the amount of code written, but by the value it delivers, the problems it solves, and the reliability it maintains."*
+
+</div>
+
+---
+
+## 🏗️ Engineering Principles
+
+```yaml
+Code:
+  - Clean
+  - Readable
+  - Maintainable
+  - Testable
+
+Architecture:
+  - Scalable
+  - Modular
+  - Secure
+  - Performance Driven
+
+Development:
+  - Continuous Learning
+  - User-Centric Design
+  - Documentation First
+  - Automation Wherever Possible
+
+Mindset:
+  - Build
+  - Learn
+  - Improve
+  - Repeat
+```
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+| 🌱 Learning | 🚀 Building | 🔍 Exploring | 🤝 Open To |
+|:-----------:|:-----------:|:------------:|:----------:|
+| Advanced Java | Enterprise Applications | Distributed Systems | Software Engineering |
+| Spring Boot | AI/ML Solutions | Cloud Native Apps | Backend Development |
+| Docker | Full Stack Platforms | Kubernetes | Product Engineering |
+| AWS | REST APIs | DevOps | Open Source |
+
+</div>
+
+---
+
+## 🚀 2026 Roadmap
+
+```yaml
+Learning:
+  - Advanced Java
+  - Spring Boot
+  - Docker
+  - Kubernetes
+  - AWS
+  - System Design
+
+Building:
+  - Enterprise Backend Systems
+  - AI Powered Applications
+  - Open Source Projects
+  - Full Stack Products
+
+Exploring:
+  - Microservices
+  - Distributed Systems
+  - Cloud Computing
+  - DevOps
+
+Goal:
+  Become a Software Engineer
+  building scalable products
+  used by millions.
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="mailto:sumit1twothree@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-3C096C?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shubham1444">
+<img src="https://img.shields.io/badge/LinkedIn-5A189A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sks6452">
+<img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://kumarshubham.xyz">
+<img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💜 Tech Philosophy
+
+<div align="center">
+
+| ✔ Clean Architecture | ✔ Scalable Systems | ✔ Performance First |
+|:--------------------:|:------------------:|:-------------------:|
+| ✔ User-Centric Design | ✔ Secure by Design | ✔ Continuous Learning |
+
+</div>
+
+---
+
+# 🌟 Thanks for Visiting
+
+<div align="center">
+
+### *Let's build reliable, scalable, and impactful software together.*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:3C096C,25:5A189A,50:6A0DAD,75:7B2CBF,100:9D4EDD"/>
+
+</div>
