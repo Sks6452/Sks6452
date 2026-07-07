@@ -477,3 +477,258 @@ Core Skills:
 - Passionate about integrating AI with scalable software engineering practices.
 
 ---
+<!-- ========================= FEATURED PROJECTS ========================= -->
+
+# 🚀 Featured Projects
+
+> **A curated collection of projects demonstrating expertise in Software Engineering, AI/ML, IoT, Data Analytics, and Full Stack Development.**
+
+---
+
+<details open>
+<summary><b>🏆 Collectors Paradise — Full Stack Collectibles Marketplace</b></summary>
+
+<br>
+
+### Overview
+
+**Collectors Paradise** is a modern full-stack web platform designed for collectors to discover, organize, and showcase collectibles including coins, currency notes, stamps, medals, vintage watches, antiques, historical documents, and more. The platform emphasizes scalability, responsive design, and efficient search capabilities.
+
+### Technical Highlights
+
+| Category | Details |
+|----------|---------|
+| **Technology Stack** | HTML5 • CSS3 • JavaScript • SQL • GitHub Pages |
+| **Architecture** | Responsive Multi-Page Web Platform |
+| **Scale** | Supports multiple collectible categories with advanced search capabilities |
+| **Performance** | Optimized loading, responsive UI, lightweight architecture |
+| **Security** | Structured data validation & SQL-backed search logic |
+| **Engineering Focus** | User Experience • Database Design • Information Architecture |
+| **Impact** | Created a centralized platform for collectors to explore and manage collectibles |
+
+### Key Features
+
+- Advanced category-wise filtering
+- SQL-powered search system
+- Responsive mobile-first design
+- Modern UI/UX
+- Organized collectible management
+- Scalable architecture
+- Community-focused platform
+- Clean navigation experience
+
+### Engineering Contributions
+
+- Designed complete database workflow
+- Developed responsive frontend
+- Implemented efficient search functionality
+- Structured scalable category management
+- Optimized user experience
+- Improved maintainability using modular code
+
+### Repository
+
+```text
+Repository :
+https://github.com/Sks6452/Collectors-Paradise
+
+Live Website :
+https://collectorsparadise.tech
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>📊 Tata Steel Holistic Dashboard</b></summary>
+
+<br>
+
+### Overview
+
+Developed a data-driven analytics dashboard for Tata Steel's LDP Plant to visualize operational metrics, inventory distribution, production insights, and business intelligence. The dashboard simplifies complex datasets into interactive visual reports for informed decision-making.
+
+### Technical Highlights
+
+| Category | Details |
+|----------|---------|
+| **Technology Stack** | Python • HTML • CSS • JavaScript • Chart.js |
+| **Architecture** | Interactive Data Analytics Dashboard |
+| **Performance** | Optimized data processing and visualization |
+| **Visualization** | Interactive Charts & Operational Insights |
+| **Engineering Focus** | Data Engineering • Dashboard Design • Business Analytics |
+| **Impact** | Improved operational visibility and reporting efficiency |
+
+### Modules
+
+- Allocation Distribution
+- B2D Analysis
+- B2P Analysis
+- T-Free Stock Analysis
+- Interactive Charts
+- KPI Monitoring
+- Data Visualization
+
+### Engineering Contributions
+
+- Cleaned and transformed datasets
+- Designed interactive dashboard UI
+- Integrated dynamic charts
+- Automated reporting workflow
+- Improved data readability
+- Enhanced decision-making process
+
+### Repository
+
+```text
+Repository :
+https://github.com/Sks6452
+
+Live Demo :
+https://tatadashboard.netlify.app
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>❤️ IoT Based Smart Health Band</b></summary>
+
+<br>
+
+### Overview
+
+Designed and developed an IoT-enabled wearable health monitoring system capable of continuously tracking vital biometric parameters in real time. The project focused on sensor integration, reliable data acquisition, and low-latency monitoring for healthcare applications.
+
+### Technical Highlights
+
+| Category | Details |
+|----------|---------|
+| **Technology Stack** | IoT • Embedded Systems • Sensors |
+| **Architecture** | Real-Time Health Monitoring System |
+| **Sensors** | Multiple Biometric Sensors |
+| **Performance** | Near Real-Time Data Refresh |
+| **Engineering Focus** | IoT • Embedded Development • Healthcare Technology |
+| **Impact** | Continuous monitoring of vital health parameters |
+
+### Features
+
+- Real-time health monitoring
+- Sensor integration
+- Continuous data acquisition
+- Reliable system architecture
+- Low latency
+- Wearable implementation
+- Efficient data transmission
+
+### Engineering Contributions
+
+- Integrated biometric sensors
+- Improved hardware reliability
+- Optimized data refresh rate
+- Tested prototype performance
+- Assisted in system validation
+- Documented engineering workflow
+
+### Repository
+
+```text
+Repository :
+Private
+```
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 AI / Machine Learning Solutions</b></summary>
+
+<br>
+
+### Overview
+
+Developed multiple Machine Learning models during an intensive AI/ML internship by applying modern preprocessing techniques, model training strategies, and evaluation methodologies to real-world datasets.
+
+### Technical Highlights
+
+| Category | Details |
+|----------|---------|
+| **Technology Stack** | Python • Scikit-Learn • Pandas • NumPy |
+| **Architecture** | End-to-End Machine Learning Pipeline |
+| **Models** | Multiple Supervised Learning Models |
+| **Optimization** | Feature Engineering & Hyperparameter Tuning |
+| **Engineering Focus** | AI Engineering • Predictive Analytics |
+| **Impact** | Improved model accuracy and strengthened production-ready ML workflow |
+
+### Workflow
+
+- Data Collection
+- Data Cleaning
+- Feature Engineering
+- Model Selection
+- Model Training
+- Evaluation
+- Optimization
+- Performance Analysis
+
+### Engineering Contributions
+
+- Built ML models
+- Processed real-world datasets
+- Improved prediction accuracy
+- Optimized preprocessing pipeline
+- Evaluated model performance
+- Applied end-to-end AI workflow
+
+### Repository
+
+```text
+Repository :
+Coming Soon
+```
+
+</details>
+
+---
+
+## 📈 Project Summary
+
+| Domain | Projects |
+|---------|----------|
+| 🌐 Full Stack Development | Collectors Paradise |
+| 📊 Data Analytics | Tata Steel Dashboard |
+| 🤖 Artificial Intelligence | AI/ML Solutions |
+| ❤️ Internet of Things | Smart Health Band |
+| 💾 Database Systems | SQL-Based Search Platform |
+| 📱 Responsive Web Applications | Multiple Projects |
+
+---
+
+## 🏅 Engineering Impact
+
+```text
+✔ Full Stack Web Development
+
+✔ Artificial Intelligence & Machine Learning
+
+✔ Internet of Things (IoT)
+
+✔ Data Engineering
+
+✔ Dashboard Development
+
+✔ Database Design
+
+✔ RESTful Architecture
+
+✔ Responsive UI Development
+
+✔ Scalable Software Engineering
+
+✔ Problem Solving & System Design
+```
+
+---
